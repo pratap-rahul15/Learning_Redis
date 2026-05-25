@@ -6,3 +6,7 @@
 
 
 # hgetall -> Fetch the entire object.
+
+# Bull MQ is a Queueing infra managment system which uses Redis at its core.
+
+# Pub-Sub is a notification system which is by-default provided by the Redis.
